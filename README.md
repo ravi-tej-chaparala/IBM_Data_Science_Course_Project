@@ -52,15 +52,6 @@ This project aims to predict the success of Falcon 9 first stage rocket landings
 - **Model Improvement**: Explore additional machine learning models like Gradient Boosting or XGBoost to improve prediction accuracy.
 - **Real-time Data Integration**: Incorporate real-time data from SpaceX API for continuous model updates and insights.
 
-### How to Run
-1. Clone the repository and install the required dependencies using `pip install -r requirements.txt`.
-2. Run the Jupyter notebooks for each component:
-   - `EDA.ipynb`: Perform exploratory data analysis.
-   - `SQL_Analysis.ipynb`: Analyze data using SQL queries.
-   - `Machine_Learning_Prediction.ipynb`: Build and evaluate machine learning models.
-   - `Geospatial_Analysis.ipynb`: Visualize launch sites and proximity analysis with Folium.
-3. Optionally, extend the project by creating interactive dashboards using Plotly Dash.
-
 ### Data Sources
 - [SpaceX API](https://api.spacexdata.com/): For rocket and launch data.
 - [Public SpaceX Datasets](https://www.kaggle.com/spacex/spacex-launch-data): For historical launch records.
